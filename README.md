@@ -107,6 +107,8 @@ python annotate.py data/subject1_gaze.csv data/subject1.mp4 --idt --idt-dis-thre
 - Annotated CSV files and processed videos are saved in the output directory.
 - Temporary extracted frames and intermediate files are cleaned up automatically.
 
+<img src="https://github.com/user-attachments/assets/623aa80b-eafd-4f00-a142-80bb35f886f7" alt="example" width="400"/>
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -122,6 +124,9 @@ If you use this tool in your research, please cite:
 ```bibtex
 ```
 
----
+## Acknowledgment
+This work has been supported by the PNRR project “Italian Strengthening of Esfri RI Resilience (ITSERR)” funded
+by the European Union - NextGenerationEU (CUP B53C22001770006).
 
-*For more details, see the code documentation and comments in `annotate.py`.*
+<img src="https://github.com/user-attachments/assets/5e193e94-e03f-46d8-952a-9078e5cb6e95" alt="itserr" width="200"/>
+
