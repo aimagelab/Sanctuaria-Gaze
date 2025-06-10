@@ -1,0 +1,46 @@
+# Architectural Features
+altar
+column
+arch
+ceiling decoration
+
+# Contextual Objects
+bag
+camera
+phone
+sign
+informational panel
+
+# Cultural and Historical Features
+painting
+plaque
+tapestry
+tombstone
+relic
+book
+
+# Furnishings
+pew
+chair
+lectern
+lamp
+candelabrum
+offering box
+bench
+
+# Religious Items
+altar
+cross
+crucifix
+candle
+chalice
+tabernacle
+holy water font
+icon
+rosary
+statue
+
+# Temporal or Event-Based Objects
+flower
+seasonal decoration
+musical instrument
